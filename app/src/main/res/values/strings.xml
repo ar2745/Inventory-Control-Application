@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InventoryControlApplication</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="action_register">Sign Up</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="registration_failed">"Registration failed"</string>
+    <string name="welcome">"Welcome! "</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nav_header_title">Inventory Control Application</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- String related to Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Strings related to text requirements -->
+    <string name="invalid_productName">Name must be >3 characters</string>
+    <string name="invalid_productType">Type must be >3 characters</string>
+    <string name="invalid_productCount">Must be an integer</string>
+
+</resources>
